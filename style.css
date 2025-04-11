@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    /* overflow: hidden; */
+}
+
+.nav{
+    background-color: #81b1ce;
+    /* height: 3.5rem; */
+    
+}
+.carousel-inner img {
+    height: 25rem; 
+    object-fit: cover;
+}
+
+.custom-container{
+    /* background: #000; */
+    /* padding-top: 5px; */
+    max-width: 100%;
+    margin-bottom: 1rem;
+}
+
+.footer{
+    background-color: #81b1ce;
+    width: 100vw;
+    height: 250px;
+}
